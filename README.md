@@ -1,7 +1,9 @@
-# calculadora_imc
+# Calculadora Imc
 
-A new Flutter application.
-
+Simples aplicativo para calcular IMC
+<br/>
+<img src="assets/screen_1.jpeg" width="200px" />
+<img src="assets/screen_2.jpeg" width="200px" />
 ## Getting Started
 
 This project is a starting point for a Flutter application.
